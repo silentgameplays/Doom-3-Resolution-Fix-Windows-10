@@ -1,5 +1,6 @@
 Doom-3-FHD-Resolution-Fix-No-Mods
-For those of who want to play Doom 3 Original not the BFG edition
+
+For those who want to play Doom 3 Original not the BFG edition
 
 1. Open the "DoomConfig.cfg" file. (usualy found under "C:\Program Files (x86)\DOOM 3\base")
 
