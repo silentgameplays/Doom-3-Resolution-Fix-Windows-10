@@ -15,8 +15,8 @@ with the one in this repo
 5. Start Game 
 
 # Advanced For Custom Resolutions
-1. For Doom 3 Open the "DoomConfig.cfg" file usually found under "C:\Program Files (x86)\Steam\steamapps\common\Doom 3\base
- * For Doom 3 Resurrection of Evil DLC C:\Program Files (x86)\Steam\steamapps\common\Doom 3\d3xp"
+1. For Doom 3 Open the DoomConfig.cfg file in folder "C:\Program Files (x86)\Steam\steamapps\common\Doom 3\base
+ * For Doom 3 Resurrection of Evil DLC in folder  C:\Program Files (x86)\Steam\steamapps\common\Doom 3\d3xp"
 
 # 2. Then you have to put it in custom mode.
 * Find the line were it says "r_mode" and change it to "r_mode -1".
@@ -24,7 +24,7 @@ with the one in this repo
 # 3. Find "r_customHeight" and "r_customWidth".
 * Change it to your resolution.
 
-# Mine is:
+# Current is:
 * "r_customHeight 1080"
 * "r_customWidth 1920"
 
