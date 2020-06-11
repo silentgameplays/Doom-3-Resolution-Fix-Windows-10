@@ -1,4 +1,4 @@
-# Doom-3-FHD-Resolution-Fix-No-Mods
+# Doom 3 Resolution Fix Windows 10
 
 For those who want to play Doom 3 Original not the BFG edition
 # Easy
